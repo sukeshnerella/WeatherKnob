@@ -2,6 +2,9 @@
 
 Welcome to WeatherKnob, a simple web application that allows you to view weather information and interact with various climate-related features. This application is designed to provide users with a fun and educational experience while learning about weather, climate change, and more.
 
+![Screenshot (2)](https://github.com/sukeshnerella/WeatherKnob/assets/125778442/9c441ca2-c20a-408c-a5cc-c27630081152)
+
+
 ## Features
 
 - **Climate Change Knob**: Adjust the climate settings to visualize the impact of climate change on temperature and weather conditions.
