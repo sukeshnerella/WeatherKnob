@@ -28,7 +28,8 @@ To run this application locally, follow these steps:
 2. Open the project folder
 3. Open 'index.html' in your preferred web browser.
 
-**Usage**
+## Usage
+
 Use the Climate Change Knob to adjust climate settings and observe changes in temperature and weather conditions.
 
 Click the Dinosaur Show, Plane Show, and Rocket Show buttons to view images and information about dinosaurs, airplanes, and rockets.
