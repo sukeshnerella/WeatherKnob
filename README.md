@@ -24,7 +24,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/sukeshnerella/weatherknob.git
+   git clone [https://github.com/sukeshnerella/weatherknob.git](https://github.com/sukeshnerella/WeatherKnob.git)
 2. Open the project folder
 3. Open 'index.html' in your preferred web browser.
 
